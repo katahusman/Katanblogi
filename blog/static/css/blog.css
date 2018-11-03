@@ -54,4 +54,6 @@ p {
 }
 #starwars {
     height:200px;
+    clip: rect(0px,60px,60px,0px);
+    border-radius: 100%
 }
